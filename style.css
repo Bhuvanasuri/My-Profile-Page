@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#apps{
+    background-color: lavender;
+}
+
+#games{
+    background-color: rgb(120, 120, 243);
+}
+
+#chatbot{
+    background-color: lavender;
+}
+
+line{ 
+    height: 6px; 
+    background-color: #000;
+    width: 70px; 
+    margin: 8px auto;
+ }
+
+ .container{
+    text-align: center;
+ }
+
+ #myCarousel{
+    background-color: darkorchid;
+ }
+
+ #myCarousel img{
+    height: 250px; 
+    margin: 30px;
+ } 
+
